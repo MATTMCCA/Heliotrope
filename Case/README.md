@@ -2,4 +2,6 @@
 Keyboard Case
 
 
-# WIP
+# WIP, CAD contributions welcome
+
+https://www.wenext.com/
