@@ -2,7 +2,7 @@
 Keyboard Case
 
 
-Component278 v3, is a test case (subject to change)
+tst v33, current 'working' design (subject to change)
 
 # Notes:
 
