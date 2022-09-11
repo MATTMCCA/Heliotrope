@@ -1,10 +1,15 @@
+
 # Heliotrope
 Keyboard Case
 
 
-tst v49, current 'working' design (subject to change)
+Current 'working' design (subject to change)
 
 # Notes:
 
-https://www.wenext.com/
+* Fab one: https://www.wenext.com/
+* Fab two: https://jlcpcb.com/3d-printing
+* Fab three: https://www.ponoko.com/
+
+We shall see how everything turns out....
 
