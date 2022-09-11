@@ -13,3 +13,5 @@ Current 'working' design (subject to change)
 
 We shall see how everything turns out....
 
+
+![Alt text](/Case/case_view.png)
