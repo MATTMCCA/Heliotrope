@@ -8,4 +8,4 @@ MIT licensed keyboard.
 
 ![Alt text](/Case/Front.png)
 
-Originally this supposed to be a collaborative project, but.... that didn't work. I keep forgetting that people have "lives".
+Originally this was supposed to be a collaborative project, but.... that didn't work. I keep forgetting that people have "lives".
