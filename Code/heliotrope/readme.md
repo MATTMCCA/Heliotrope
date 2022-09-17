@@ -1,4 +1,5 @@
 
+
 # Heliotrope
 
 Keyboard Maintainer: [MJM](https://github.com/MATTMCCA/Heliotrope)  
@@ -33,6 +34,8 @@ or with vial support
 
 10.) Compile via & vial keymap `qmk compile -kb heliotrope -km via`
 
+11.) Flash FW with [QMK_TOOLBOX](https://github.com/qmk/qmk_toolbox/releases)
+
 
 ---
 * For more information see [video](https://www.youtube.com/watch?v=POi9ttF2dsk).
@@ -43,3 +46,7 @@ or with vial support
 * https://get.vial.today/docs/porting-to-vial.html
 * https://qmk.fm/converter/
 * https://github.com/mechmerlin/qmk_setup/blob/master/info_json_tutorial.md
+* https://docs.qmk.fm/#/newbs_flashing
+
+
+
