@@ -31,7 +31,7 @@ or with vial support
 
 9.) Compile default keymap `qmk compile -kb heliotrope -km default`
 
-10.) Compile via & vial keymap `compile via & vial keymap`
+10.) Compile via & vial keymap `qmk compile -kb heliotrope -km via`
 
 
 ---
