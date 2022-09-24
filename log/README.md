@@ -26,4 +26,6 @@ I got my SLA prints from JLCPCB, they look great. I did a test assembly, and eve
 
 # Log 002
 
-I got my second batch of "imagine black" SLA resin parts from wenext. I think I'm just going to brace the top frame with 2mm cross members, and run a third batch of cases in 3201PA-F Nylon (JLCPCB). This is a last ditch effort to print a case, without a complete case redesign. OH! I also got my switch plate from ponoko the other day, its perfect (see repo photos).
+I got my second batch of "imagine black" SLA resin parts from wenext. I think I'm just going to brace the top from with 2mm cross members, and run a third batch of cases in 3201PA-F Nylon (JLCPCB). This is a last ditch effort to print a case, without a complete case redesign. OH! I also got my switch plate from ponoko the other day, its perfect (see repo photos).
+
+Edit: so I'm ignorant when it comes to material selection. BUT! I guess 3201PA-F Nylon is printed with SLS technology, so no curing, which means no warping? I'm just going to fab the case as is so I can see how it compares to a resin print. Lets hope this is my last expensive mistake lol.
