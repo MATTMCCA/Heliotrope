@@ -1,5 +1,6 @@
 
 
+
 # Heliotrope
 
 Testing QMK
@@ -10,7 +11,7 @@ To test my keyswitch matrix PCB, I opted for a cheap pro micro, and a FFC breako
 
 # QMK CLI Notes
 
-* Upon cloning the QMK Repo `git clone https://github.com/qmk/qmk_firmware.git'` and building the sub modules `make git-submodule`. you can then use the CLI to **create** a new keyboard.
+* Upon cloning the QMK Repo `git clone https://github.com/qmk/qmk_firmware.git` and building the sub modules `make git-submodule`. you can then use the CLI to **create** a new keyboard.
 * `qmk new-keyboard`, this creates a new directory structure, and guides you though the config process. This also populates a new default keymap.
 * `qmk c2json -km heliotrop_test -kb default keymap.c -o keymap.json` creates a json from the generated keymap file.
 * `qmk info -kb heliotrope_test -km default -m`, allows you to view the keymap and matrix
@@ -60,3 +61,14 @@ Keymap default Layer 0:
 └───┘└───┘└───┘└───────────────────────┘└───┘└───┘└───┘└───┘     
 
 ```
+
+### Useful Links
+
+
+https://github.com/qmk/qmk_firmware/blob/master/docs/reference_info_json.md#rgb-lighting
+
+https://github.com/qmk/qmk_firmware/blob/master/docs/config_options.md
+
+https://github.com/qmk/qmk_firmware/blob/master/docs/cli_commands.md
+
+
