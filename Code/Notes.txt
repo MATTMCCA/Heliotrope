@@ -22,3 +22,28 @@ or
 	[C6] COL6  = COL4 [D6]
 	[B6] COL0  = COL3 [D7]
 	[B5] COL1  = COL2 [B4]
+
+
+
+// test breadboard
+
+20 - pd3 - COL13
+19 - pd2 - COL12
+18 - pd1 - COL11
+17 - pd0 - COL10
+16 - pd4 - COL09
+15 - pc6 - COL08
+14 - pd7 - COL07
+13 - pe6 - COL06
+12 - pb4 - COL00
+11 - pb5 - COL01
+10 - pb0 - COL02
+09 - pd5 - COL03
+08 - pb6 - COL04
+07 - pb2 - COL05
+06 - pb3 - RGB
+05 - pb1 - ROW04
+04 - pf7 - ROW03
+03 - pf6 - ROW02
+02 - pf5 - ROW01
+01 - pf4 - ROW00
