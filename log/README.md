@@ -1,6 +1,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -34,3 +35,13 @@ Edit: so I'm ignorant when it comes to material selection. BUT! I guess 3201PA-F
 # Log 003
 
 I just noticed that my RGB Led footprint is **wrong**. So no RGB on my prototype, stay tuned for an artwork revision. However the key switch matrix works perfect, so that's good news. I have yet to scope the signals to see how messy they are.
+
+# Log 004
+
+New boards and case parts have arrived today. JLCPCB's SLS printed parts came out perfect! [see photos 017-020] by far the best prints I have ever had made. As for my design, its all **warped**, **jabberwonked**, and **kerflutzed**. I should had added more rips to the bottom half of the case. I'm going to hold off on another case design for now, hopefully that will change in the future. Even with minor warping, everything actually fits the way it should. 
+
+I think the best part about all this is, JLC keeps telling the parts will warp. Now a rational person I would have caught on by now, but no.... I'm going to continue to be naive.
+
+After my bulk order of LED's and sockets clear customs, I can assemble the PCB, yet again. As a note to self, 3201PA-F Nylon is extremely flexible, while the other material that Ive used to date appear more ridged as a solid. I rather like 3201PA-F Nylon.
+
+Ive also impulsively purchased a few (regularly priced, not inflated) STM32F411CEU6's, so I will see where that takes me. According to the *musty bowels of the internet*, QMK has support for the STM32F411. So far I have been able to compile a test build with no issue. So this is good news.
