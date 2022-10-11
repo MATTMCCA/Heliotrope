@@ -38,7 +38,7 @@ I just noticed that my RGB Led footprint is **wrong**. So no RGB on my prototype
 
 # Log 004
 
-New boards and case parts have arrived today. JLCPCB's SLS printed parts came out perfect! [see photos 017-020] by far the best prints I have ever had made. As for my design, its all **warped**, **jabberwonked**, and **kerflutzed**. I should had added more rips to the bottom half of the case. I'm going to hold off on another case design for now, hopefully that will change in the future. Even with minor warping, everything actually fits the way it should. 
+New boards and case parts have arrived today. JLCPCB's SLS printed parts came out perfect! [see photos 017-020] by far the best prints I have ever had made. As for my design, its all **warped**, **jabberwonked**, and **kerflutzed**. I should had added more ribs to the bottom half of the case. I'm going to hold off on another case design for now, hopefully that will change in the future. Even with minor warping, everything actually fits the way it should. 
 
 I think the best part about all this is, JLC keeps telling the parts will warp. Now a rational person I would have caught on by now, but no.... I'm going to continue to be naive.
 
