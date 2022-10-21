@@ -2,6 +2,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -45,3 +46,7 @@ I think the best part about all this is, JLC keeps telling the parts will warp. 
 After my bulk order of LED's and sockets clear customs, I can assemble the PCB, yet again. As a note to self, 3201PA-F Nylon is extremely flexible, while the other material that Ive used to date appear more ridged as a solid. I rather like 3201PA-F Nylon.
 
 Ive also impulsively purchased a few (regularly priced, not inflated) STM32F411CEU6's, so I will see where that takes me. According to the *musty bowels of the internet*, QMK has support for the STM32F411. So far I have been able to compile a test build with no issue. So this is good news.
+
+# Log 005
+
+I got my new new new 3D prints today, MJF Nylon 12 (dyed the sexist of purples) (photo 21-23). These have been the best prints yet, FAB JawsTec, USA based. Everything looks good, the material is better than the 3201PA-F, and no warping, that's right folks!, ZERO WARP (+|- some warp after assembly). This is not a paid review, I'm just a weirdo who builds things. I also got my key-switch sockets today, still waiting on my LED's.
