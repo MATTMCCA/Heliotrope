@@ -62,3 +62,7 @@ My next goal is to fab V2 of the logic board, and assemble that. It will probabl
 ### Log 006.b
 
 I just fixed all my cold joints (hot air soldering was to blame). All of the keys are electrically connected, and register in Key Tester, see photo 025. I dub this a **success**, all I need now is my logic board and I'll have a keyboard.
+
+### Log 006.c
+
+I was in a mood, so I test fit everything without the logic board, see assembly pics 026 - 028. Shes a lean, mean, purple keyed typing machine.
