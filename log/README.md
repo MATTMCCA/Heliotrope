@@ -3,6 +3,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -50,3 +51,9 @@ Ive also impulsively purchased a few (regularly priced, not inflated) STM32F411C
 # Log 005
 
 I got my new new new 3D prints today, MJF Nylon 12 (dyed the sexist of purples) (photo 21-23). These have been the best prints yet, FAB JawsTec, USA based. Everything looks good, the material is better than the 3201PA-F, and no warping, that's right folks!, ZERO WARP (+|- some warp after assembly). This is not a paid review, I'm just a weirdo who builds things. I also got my key-switch sockets today, still waiting on my LED's.
+
+# Log 006
+
+I populated V2 of the keyswitch PCB (I finally got my parts). LED's work, I'm still debugging the matrix, I have some cold joints. The board has not been fitted into the case yet. See Demo video 001 for an RGB cycle test.
+
+My next goal is to fab V2 of the logic board, and assemble that. It will probably another week or so before I get the PCB's and parts. 
