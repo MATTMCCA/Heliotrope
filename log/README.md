@@ -4,6 +4,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -57,3 +58,7 @@ I got my new new new 3D prints today, MJF Nylon 12 (dyed the sexist of purples) 
 I populated V2 of the keyswitch PCB (I finally got my parts). LED's work, I'm still debugging the matrix, I have some cold joints. The board has not been fitted into the case yet. See Demo video 001 for an RGB cycle test.
 
 My next goal is to fab V2 of the logic board, and assemble that. It will probably another week or so before I get the PCB's and parts. 
+
+### Log 006.b
+
+I just fixed all my cold joints (hot air soldering was to blame). All of the keys are electrically connected, and register in Key Tester, see photo 025. I dub this a **success**, all I need now is my logic board and I'll have a keyboard.
