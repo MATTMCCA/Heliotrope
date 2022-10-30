@@ -25,3 +25,12 @@ To comply with USB 2.0 power spec of (500mA) a brightness value of <= 50 will pr
 
 ---
 *I am not liable for any damages caused by the use of this design.*
+
+
+#### Worst Case Scenario List (risk mitigation)
+
+- Damage to PCB resulting in fire
+- USB port overload resulting in PC damage
+- Projectile vomiting resulting from the above realizations
+- Vomiting bystanders resulting from a sympathy to gag reflex 
+- Sudden loss of nipples.
