@@ -2,14 +2,93 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : outline
-      File : PCB1.GM2
+Generating : Top Copper
+      File : PCB1.GTL
 
-    Adding Layer      : outline
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
+    D17
+    D18
+    D19
+    D20
+    D25
+    D30
+    D31
+    D36
+    D37
+    D38
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : PCB1.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : PCB1.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Copper
+      File : PCB1.GBL
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D53
+    D57
+    D58
+    D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -23,29 +102,31 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB1.GBO
+Generating : outline
+      File : PCB1.GM2
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Mask
-      File : PCB1.GBS
-
-    Adding Layer      : Bottom Mask
-
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : outline
 
 
 Used DCodes :
-    D39
-    D40
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -87,25 +168,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB1.GTO
+Generating : Bottom Mask
+      File : PCB1.GBS
 
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Copper
-      File : PCB1.GBL
+    Adding Layer      : Bottom Mask
 
     Adding Layer      : Bottom Copper
 
@@ -113,80 +179,17 @@ Generating : Bottom Copper
 
 
 Used DCodes :
-    D12
-    D55
-    D56
-    D57
-    D58
+    D39
+    D40
 *************************************************************
 
 *************************************************************
-Generating : Signal Layer 2
-      File : PCB1.G2
+Generating : Bottom Overlay
+      File : PCB1.GBO
 
-    Adding Layer      : Signal Layer 2
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D53
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Signal Layer 1
-      File : PCB1.G1
-
-    Adding Layer      : Signal Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Top Copper
-      File : PCB1.GTL
-
-    Adding Layer      : Top Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D17
-    D18
-    D19
-    D20
-    D25
-    D30
-    D31
-    D36
-    D37
-    D38
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
 *************************************************************
 
