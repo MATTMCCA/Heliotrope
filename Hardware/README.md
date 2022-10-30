@@ -1,5 +1,6 @@
 
 
+
 # View All Project Files Online
 
 https://www.altium.com/viewer/
@@ -7,6 +8,17 @@ https://www.altium.com/viewer/
 ## Notes:
 * This is an untested keyboard design, its still a work in progress.
 * Much hardware debugging still needs done.
+* Added a series board for current management. 
+
+# PowerSafe Board
+
+Power safe is an inline set of current limiting resistors, designed to go between the logic board and the switch matrix to reduce the supply current of LEDs.
+```
+1 resistors = 500ma
+2 resistors = 1A
+3 resistors = 1.5A
+```
+I'm unsure how well this will work in-practice, this series board was an attempt to not modify the current board designs. Ideally I should implement a better safety mechanism, in the logic board design. *Please see the below safety notice to find out why.*
 
 
 # Safety Notice
