@@ -2,32 +2,6 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB1.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Mask
-      File : PCB1.GBS
-
-    Adding Layer      : Bottom Mask
-
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D43
-*************************************************************
-
-*************************************************************
 Generating : Top Mask
       File : PCB1.GTS
 
@@ -147,27 +121,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : outline
-      File : PCB1.GM2
-
-    Adding Layer      : outline
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB1.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom Copper
       File : PCB1.GBL
 
@@ -200,5 +153,52 @@ Used DCodes :
     D65
     D66
     D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : PCB1.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : outline
+      File : PCB1.GM2
+
+    Adding Layer      : outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
 *************************************************************
 
