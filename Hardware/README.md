@@ -1,4 +1,5 @@
 
+
 # View All Project Files Online
 
 https://www.altium.com/viewer/
@@ -7,6 +8,6 @@ https://www.altium.com/viewer/
 * This is an untested keyboard design, its still a work in progress.
 * Much hardware debugging still needs done.
 
-# Logic Revision Plan
+# USB 3.0 Power
 
-In order to actually comply with USB spec, I plan on implementing an intelligent current limiter. This should protect the host from an over current condition, while still allowing for low current USB host ports. This will also protect the board, dissipating too many watts may cause a PCB failure of the most spectacular kind (something I would rather avoid). 
+The logic board has been revised to comply with USB3.0 and Legacy USB power modes. (un-tested)
