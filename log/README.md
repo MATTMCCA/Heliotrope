@@ -5,6 +5,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -66,3 +67,7 @@ I just fixed all my cold joints (hot air soldering was to blame). All of the key
 ### Log 006.c
 
 I was in a mood, so I test fit everything without the logic board, see assembly pics 026 - 028. Shes a lean, mean, purple keyed typing machine.
+
+# Log 007
+
+Waiting on my revised logic boards, and some other tools to complete assembly.
