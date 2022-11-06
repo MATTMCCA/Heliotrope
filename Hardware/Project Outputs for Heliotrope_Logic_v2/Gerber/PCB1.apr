@@ -46,8 +46,8 @@ D54   RECTANGULAR        35.433      31.496       0.000 FLASH     180.000
 D55   RECTANGULAR        85.827      78.740       0.000 FLASH     180.000
 D56   RECTANGULAR        11.811      45.276       0.000 FLASH     180.000
 D57   RECTANGULAR        23.622      45.276       0.000 FLASH     180.000
-D58   ROUNDED             6.491       6.491       0.000  LINE       0.000
-D59   ROUNDED            20.000      20.000       0.000  LINE       0.000
+D58   ROUNDED            20.000      20.000       0.000  LINE       0.000
+D59   ROUNDED             6.491       6.491       0.000  LINE       0.000
 D60   ROUNDED            15.000      15.000       0.000  LINE       0.000
 D61   ROUNDED            18.000      18.000       0.000  LINE       0.000
 D62   ROUNDED             5.459       5.459       0.000  LINE       0.000
