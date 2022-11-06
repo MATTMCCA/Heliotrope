@@ -17,12 +17,9 @@
         "led_count": 61,
         "pin": "B3",
         "hue_steps": 10,
-        "saturation_steps": 17,
-        "brightness_steps": 17,
-		"max_brightness":   128,
+		"max_brightness": 128,
         "animations": {
-            "static_gradient": true,
-			"rgb_test": true
+			"all": true
         }
     },	
     "matrix_pins": {
