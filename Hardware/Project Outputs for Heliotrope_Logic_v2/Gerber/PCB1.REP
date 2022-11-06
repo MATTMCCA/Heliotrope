@@ -9,7 +9,7 @@ Generating : outline
 
 
 Used DCodes :
-    D12
+    D13
 *************************************************************
 
 *************************************************************
@@ -116,7 +116,7 @@ Generating : Bottom Copper
 
 
 Used DCodes :
-    D12
+    D13
     D58
     D59
     D63
@@ -165,17 +165,17 @@ Generating : Top Copper
 
 
 Used DCodes :
-    D12
+    D13
     D17
-    D20
+    D18
     D21
     D22
     D23
     D24
     D25
-    D34
+    D26
     D35
-    D40
+    D36
     D41
     D44
     D45
