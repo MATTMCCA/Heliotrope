@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 # Parts!
 
 ### Arrived
@@ -71,3 +64,15 @@ I was in a mood, so I test fit everything without the logic board, see assembly 
 # Log 007
 
 Waiting on my revised logic boards, and some other tools to complete assembly.
+
+# Log 008
+
+I got V2 of the logic boards in today, I'm not going to photo op the PCB's as I'm waiting the final rev with USB power negotiation. 
+
+"**activating rant mode**" I'm not really sure what sparked this project, It may have been internet hype, I just know I wanted to design a keyboard. Looking back Ive leaned alot about 3D printed material properties as well as explored a number of different fabrication services. 
+
+*hopefully* the boards currently being fabed will be my last expenditure on the project. (I also have o-rings and washers on order, plus this nifty infrared board warmer I hope to use for reflow >285C)
+
+I still really want a better case, and I may redo the top plate, the keyswitches are a bit lose. This is still all hearsay, my main objective is to get a working unit so a can "release" the build files. The upper case frame is almost un-manufacture-able as is. I'm also rethinking the power plane for the LED's its wayyyy thinner than I would have liked, its around 10mills. 
+
+I'm also rethinking the purple, the keycaps seem a bit girly, I may replace them for black. I should also paint / polish the switch plate, its pretty industrial looking. .....OR! BLUE IT! I might actually do that. that would be kinda sweet.
