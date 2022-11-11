@@ -1,4 +1,5 @@
 
+
 # Parts!
 
 ### Arrived
@@ -76,3 +77,7 @@ I got V2 of the logic boards in today, I'm not going to photo op the PCB's as I'
 I still really want a better case, and I may redo the top plate, the keyswitches are a bit lose. This is still all hearsay, my main objective is to get a working unit so a can "release" the build files. The upper case frame is almost un-manufacture-able as is. I'm also rethinking the power plane for the LED's its wayyyy thinner than I would have liked, its around 10mills. 
 
 I'm also rethinking the purple, the keycaps seem a bit girly, I may replace them for black. I should also paint / polish the switch plate, its pretty industrial looking. .....OR! BLUE IT! I might actually do that. that would be kinda sweet.
+
+# Log 009
+
+I just got a new toy in the mail, see photo 29. The YiHUA 853A by itself did not get hot enough to melt my low temp paste (< 200C). So I'm bummed, it still dose a great job a heating the board, I just wish it got hotter.
