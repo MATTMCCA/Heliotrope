@@ -1,8 +1,8 @@
 {
-    "manufacturer": "MJM",
-    "keyboard_name": "heliotrope_test",
+    "manufacturer": "MATTMCCA",
+    "keyboard_name": "heliotrope",
     "maintainer": "MATTMCCA",
-    "bootloader": "caterina",
+    "bootloader": "stm32-dfu",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -11,22 +11,22 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
-		"rgblight": true
+	"rgblight": true
     },
-	"rgblight": {
+    "rgblight": {
         "led_count": 61,
-        "pin": "B3",
+        "pin": "A4",
         "hue_steps": 10,
-		"max_brightness": 128,
-        "animations": {
+		"max_brightness": 255,
+        	"animations": {
 			"all": true
-        }
+        	}
     },	
     "matrix_pins": {
-        "cols": ["B4", "B5", "B0", "D5", "B6", "B2", "E6", "D7", "C6", "D4", "D0", "D1", "D2", "D3"],
-        "rows": ["F4", "F5", "F6", "F7", "B1"]
+        "cols": ["B5", "B4", "B3", "A15", "A2", "A3", "B6", "B12", "B13", "B14", "B15", "A8", "A9", "A10"],
+        "rows": ["B1", "B0", "A7", "A6", "A5"]
     },
-    "processor": "atmega32u4",
+    "processor": "STM32F411",
     "url": "https://github.com/MATTMCCA/Heliotrope",
     "usb": {
         "device_version": "1.0.0",

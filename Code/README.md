@@ -1,13 +1,6 @@
-
-
-
 # Heliotrope
 
 Testing QMK
-
-# Testing Notes:
-
-To test my keyswitch matrix PCB, I opted for a cheap pro micro, and a FFC breakout connector. This should at least allow me to test basic firmware configs, and scope the signals for *signal integrity*.
 
 # QMK CLI Notes
 
@@ -19,11 +12,11 @@ To test my keyswitch matrix PCB, I opted for a cheap pro micro, and a FFC breako
 
 ## CLI Output
 ```
-Keyboard Name: heliotrope_test                                   
+Keyboard Name: heliotrope                                   
 Manufacturer: MJM                                                
 Website: https://github.com/MATTMCCA/Heliotrope                  
 Maintainer: MATTMCCA                                             
-Keyboard Folder: heliotrope_test                                 
+Keyboard Folder: heliotrope                                 
 Layouts: LAYOUT_60_ansi                                          
 Processor: atmega32u4                                            
 Bootloader: caterina                                             

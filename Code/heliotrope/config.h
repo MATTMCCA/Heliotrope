@@ -1,4 +1,4 @@
-// Copyright 2022 MJM (@MATTMCCA)
+// Copyright 2022 MATTMCCA (@MATTMCCA)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
@@ -18,5 +18,3 @@
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
-
-#define RGBLIGHT_DEFAULT_MODE RGBLIGHT_MODE_RGB_TEST

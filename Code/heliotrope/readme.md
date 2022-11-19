@@ -1,20 +1,20 @@
-# heliotrope_test
+# heliotrope
 
-![heliotrope_test](imgur.com image replace me!)
+![heliotrope](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [MJM](https://github.com/MATTMCCA)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Keyboard Maintainer: [MATTMCCA](https://github.com/MATTMCCA)
+* Hardware Supported: *https://github.com/MATTMCCA/Heliotrope/tree/main/Hardware*
+* Hardware Availability: *https://github.com/MATTMCCA/Heliotrope/tree/main/Hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
-    make heliotrope_test:default
+    make heliotrope:default
 
 Flashing example for this keyboard:
 
-    make heliotrope_test:default:flash
+    make heliotrope:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
