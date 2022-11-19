@@ -1,5 +1,6 @@
 
 
+
 # Parts!
 
 ### Arrived
@@ -81,3 +82,9 @@ I'm also rethinking the purple, the keycaps seem a bit girly, I may replace them
 # Log 009
 
 I just got a new toy in the mail, see photo 29. The YiHUA 853A by itself did not get hot enough to melt my low temp paste (< 200C). So I'm bummed, it still dose a great job a heating the board, I just wish it got hotter.
+
+# Log 010
+
+I just sat down, pasted my boards, populated all the parts, and realized I forgot to order the USB Connector..... there goes my weekend, now I get to wait on more parts...
+
+
