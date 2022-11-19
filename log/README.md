@@ -1,6 +1,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -87,4 +88,5 @@ I just got a new toy in the mail, see photo 29. The YiHUA 853A by itself did not
 
 I just sat down, pasted my boards, populated all the parts, and realized I forgot to order the USB Connector..... there goes my weekend, now I get to wait on more parts...
 
-
+### Log 010.b
+I went ahead and re-flowed what I had, I can always do the connector when it arrives. (see photo 30)
