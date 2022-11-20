@@ -1,7 +1,4 @@
 
-
-
-
 # Parts!
 
 ### Arrived
@@ -90,3 +87,13 @@ I just sat down, pasted my boards, populated all the parts, and realized I forgo
 
 ### Log 010.b
 I went ahead and re-flowed what I had, I can always do the connector when it arrives. (see photo 30)
+
+# Log 011
+
+I went ahead and got my new case design fab-ed at [jawstec](https://www.jawstec.com/) just to see how it would turn out. I also am getting the plate fab-ed as well, from [oshcut](https://www.oshcut.com/). The plate is going to be laser cut, formed, and powder coated black. The case is going to be produced out of purple Nylon 12.
+
+I was reluctant to fab anything as I did not account for manufacturing tolerances. So my hopes for success are low, but if this is a failure, I will at-least see *how* and *why* it didn't work. which arguably is more important than a success. 
+
+Ive also never had anything powder coated before, so I'm excited to see how that turns out. I *hope* it only adds a few mills to the surface of the part. 
+
+Oh and digikey is reportedly experiencing high order volumes. So despite paying for overnight shipping, my parts will not be in today...  
