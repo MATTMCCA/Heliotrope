@@ -115,7 +115,7 @@ A row of my key-switches don't register, I may need to re-flow the STM or the FF
 I'm unable to fully test power negotiation, my hub is legacy, and I'm not in the mood to fight with cables. I should test this at a latter date.
 
 ### The Ugly
-I totally put the filter Cap next to pin 3 of U4, it should have been next to pin 1 of U4. ~~Also... in order for the load switch to work, pin 3 or !EN, needs to be pulled low, not high (I glossed over that part in the datasheet). So this latest batch or boards are garbage. ~~
+I totally put the filter Cap next to pin 3 of U4, it should have been next to pin 1 of U4.
 
 Actually, I put the wrong IC on order, it should of been AP22653 or AP22653A. Both are active high, sub A, cuts the supply when over current happens, the other delivers constant current, which may led to thermal shutdown. The sub A variant may be the best option for circuit protection. 
 
