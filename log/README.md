@@ -1,4 +1,5 @@
 
+
 # Parts!
 
 ### Arrived
@@ -97,3 +98,26 @@ I was reluctant to fab anything as I did not account for manufacturing tolerance
 Ive also never had anything powder coated before, so I'm excited to see how that turns out. I *hope* it only adds a few mills to the surface of the part. 
 
 Oh and digikey is reportedly experiencing high order volumes. So despite paying for overnight shipping, my parts will not be in today...  
+
+# Log 012
+
+### The Good
+My USB connectors came today! they fit perfect on the board, see photo 33. The Load switch preformed great, I was able to get the chip to experience a Over Current Mode Failure. Which is exactly why its in the design. I cranked the LED's to max and the power kicked off, its was pretty nice. Although to recover, I had to disconnect the LED's, so that was a pain.
+
+The rest button put the STM in DFU mode as planed, so that works perfect. on first power the STM jump to the application.
+
+I was worried about the 8Mhz xtal not being the right value for chibiOS, but it worked with no issue. The dividers are right otherwise USB would of failed.
+
+### The Bad
+A row of my key-switches don't register, I may need to re-flow the STM or the FFC connector.
+
+I'm unable to fully test power negotiation, my hub is legacy, and I'm not in the mood to fight with cables. I should test this at a latter date.
+
+### The Ugly
+I totally put the filter Cap next to pin 3 of U4, it should have been next to pin 1 of U4. Also... in order for the load switch to work, pin 3 or !EN, needs to be pulled low, not high (I glossed over that part in the datasheet). So this latest batch or boards are garbage. 
+
+I I'm also having trouble enumerating the keyboard. This could be from either my shotty soldering job or the connector. OR I need to add a bleed resistor to the 3.3v rail. Or all of the above...
+
+---
+All in all, I think this is coming along pretty good. Minus a few stupid and expensive mistakes, I'm making good progress. GoodJob Self! 
+
