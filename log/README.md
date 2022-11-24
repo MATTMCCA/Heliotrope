@@ -119,7 +119,10 @@ I totally put the filter Cap next to pin 3 of U4, it should have been next to pi
 
 Actually, I put the wrong IC on order, it should of been AP22653 or AP22653A. Both are active high, sub A, cuts the supply when over current happens, the other delivers constant current, which may led to thermal shutdown. The sub A variant may be the best option for circuit protection. 
 
-I I'm also having trouble enumerating the keyboard. This could be from either my shotty soldering job or the connector. OR I need to add a bleed resistor to the 3.3v rail. Or all of the above...
+I'm also having trouble enumerating the keyboard. This could be from either my shotty soldering job or the connector. OR I need to add a bleed resistor to the 3.3v rail. Or all of the above...
+
+
+I also just found out that I made another mistake. 33k and 102k should be flipped. Since the outputs are OD (which I knew about, that's why this works) FALSE is conducting, and TRUE is high impedance. As the design stands right now, we are switching between .4A, .7A and 1.7A. The intended current values were .4A, 1.4A and 1.7A.
 
 ---
 All in all, I think this is coming along pretty good. Minus a few stupid and expensive mistakes, I'm making good progress. GoodJob Self! 
