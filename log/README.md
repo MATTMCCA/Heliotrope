@@ -2,6 +2,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -137,4 +138,7 @@ So... after swearing for 30 or so min, I found a [solution](https://github.com/q
 
 Now to fix the artwork, so I can spin one more final board.
 
+# Log 014
+This log is being typed with Heliotrope!! I have it assembled and working! see photos 33 & 34. RGB is working with VIA, all keys are working, and everything is purple. The one thing I hate is the CherryMX RED's. I got them cheap in bulk, but I really miss the CherryMX Blue's....
 
+I still need to fix all the the little bugs in the logic board, and I'm waiting to see how my new case came out. hopefully its not a flop.
