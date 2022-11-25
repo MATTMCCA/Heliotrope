@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Heliotrope_Logic_v2\Project Outputs for Heliotrope_Logic_v2\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/11/22
+Time:       16:13
+Revision:   9d79dc964e8c02f3cab5bd44d67abaefe672b891
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R7","RMCF0603JT10K0","TopLayer","FP-RMCF0603-MFG","18.3134","2.7686","270","Res Thick Film 0603 10K Ohm 5% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"
+"F1","0603L020YR","TopLayer","FP-0603L-MFG","11.1506","23.1140","90","9VDC 200mA Hold, 500mA Trip 0603 PTC"
+"R2","RMCF0603FT33K0","TopLayer","FP-RMCF0603-MFG","36.2458","15.7226","0","Res Thick Film 0603 33K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"
+"U5","PTN5150AHXMP","TopLayer","IC_PTN5150AHXMP","33.6804","16.3576","0","PTN5150A Series 2.7 to 5.5 V CC Logic for USB Type-C Applications - XFQFN-12"
+"U4","AP22653AW6-7","TopLayer","SOT26-A1_DIO","39.8018","18.4912","180","PRECISION ADJUSTABLE CURRENT-LIMITED POWER SWITCHES, -40 to 85°C pF, RoHS"
+"R6","RMCF0603FT102K","TopLayer","FP-RMCF0603-MFG","36.2458","17.0688","0","Res Thick Film 0603 102K Ohm 1% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"
+"C14","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","33.9732","14.1986","180","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C13","GRM21BR71A106KA73K","TopLayer","FP-GRM21B-0_15-MFG","43.0022","18.4658","270","Cap Ceramic 10uF 10V X7R 10% Pad SMD 0805 125C T/R"
+"C12","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","15.4432","22.8092","0","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C11","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","12.6492","19.6088","270","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C10","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","14.3256","20.2946","270","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C9","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","16.0020","20.2946","270","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C8","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","21.5392","8.2550","90","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C7","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","24.5618","17.0434","180","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C6","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","12.1412","12.9794","0","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C5","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","12.1158","9.7536","180","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C4","GRM21BR71A106KA73K","TopLayer","FP-GRM21B-0_15-MFG","8.6106","16.2814","0","Cap Ceramic 10uF 10V X7R 10% Pad SMD 0805 125C T/R"
+"C3","GRM21BR71A106KA73K","TopLayer","FP-GRM21B-0_15-MFG","8.6106","22.7330","0","Cap Ceramic 10uF 10V X7R 10% Pad SMD 0805 125C T/R"
+"P1","53261-0271","TopLayer","MOLX-53261-0271_V","41.1480","12.0650","90","1.25mm Pitch PicoBlade™ Header, Surface Mount, Right Angle, Lead-Free, 2 Circuits"
+"J2","68712014522","TopLayer","68712014522","30.6070","3.9160","0","Ffc / Fpc Board Connector, Zif, Surface Mount, Plug, 20, Bottom, 0.5 Mm Rohs Compliant: Yes"
+"Y1","ECS-2520MV-080-CN-TR","TopLayer","OSC_ECS-2520S25-250-FN-TR","12.3952","16.2560","270","ECS-2520MV Series 8MHz 2.5x2mm 3.6 V SMT HCMOS Multivolt? Crystal Oscillator"
+"U3","TLV74033PDBVR","TopLayer","DBV0005A-IPC_A","8.6106","19.4564","270","300-mA low-dropout (LDO) regulator with foldback current limit 5-SOT-23 -40 to 125"
+"U2","MIC803-26D4VC3-TR","TopLayer","SC-70_C3_MCH","18.6690","22.9108","270","3-Pin Microprocessor Supervisor Circuit w/ Open-Drain Reset Output"
+"U1","STM32F411CEU6","TopLayer","STM-UFQFPN48_M","18.5420","14.2748","0","ARM® Cortex®-M4 STM32 F4 Microcontroller IC 32-Bit 100MHz 512KB (512K x 8) FLASH 48-UFQFPN (7x7)"
+"SW1","PTS526SK15SMTR2LFS","TopLayer","FP-PTS526SK15SMTR2LFS-MFG","10.9982","4.2418","0","Switch Tactile N.O. SPST Round Button Gull Wing 0.05A 12VDC 200000Cycles 2.55N SMD T/R"
+"R5","RMCF0603JT1K00","TopLayer","FP-RMCF0603-MFG","15.5448","2.7686","270","Res Thick Film 0603 1K Ohm 5% 1/10W ±200ppm/°C Molded SMD Paper T/R"
+"R4","RMCF0603JT10K0","TopLayer","FP-RMCF0603-MFG","16.9418","2.7686","270","Res Thick Film 0603 10K Ohm 5% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"
+"R3","RMCF0603JT100K","TopLayer","FP-RMCF0603-MFG","18.6690","21.0312","0","Res Thick Film 0603 100K Ohm 5% 1/10W ±200ppm/°C Molded SMD Paper T/R"
+"R1","RMCF0603FT62K0","TopLayer","FP-RMCF0603-MFG","36.2458","18.4150","0","Res Thick Film 0603 62K Ohm 1% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"
+"J1","USB4110-GF-A","TopLayer","GCT_USB4110-GF-A_REVB","30.2260","22.8945","180","Conn USB Type C RCP 16 POS 0.3mm/0.5mm Solder ST SMD 16 Terminal 1 Port T/R"
+"FL1","BLM18AG601SN1D","TopLayer","BEADC1608X95N","12.1412","11.3792","0","600 Ohms @ 100MHz 1 Ferrite Bead 0603 _1608 Metric_ 500mA 380mOhm"
+"CR1","RCLAMP0504FBTCT","TopLayer","SC70_RCLAMP_SEM","29.7434","16.9672","270","ESD Suppressor TVS Quad Uni-Dir 30kV 6-Pin SC-70 T/R"
+"C2","CC0603JRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","15.5448","5.6642","270","0603 0.1 uF 50 V ±5 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C1","CC0603KRX7R6BB225","TopLayer","FP-CC0603-DA-MFG","19.9390","8.3058","90","Cap Ceramic 2.2uF 10V X7R 10% SMD 0603 125C Paper T/R"
