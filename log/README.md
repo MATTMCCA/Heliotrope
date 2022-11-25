@@ -1,6 +1,7 @@
 
 
 
+
 # Parts!
 
 ### Arrived
@@ -126,4 +127,14 @@ I also just found out that I made another mistake. 33k and 102k should be flippe
 
 ---
 All in all, I think this is coming along pretty good. Minus a few stupid and expensive mistakes, I'm making good progress. GoodJob Self! 
+
+# Log 013
+Today I swapped the 33K and 102 resistor to fix my mistake. That went smooth.
+
+I also re flowed the MCU to fix a few bad joints. Two keys still did not work. After swapping MCU's and re flowing 3 more times, I figured it was software not hardware. I then found this [issue](https://github.com/qmk/qmk_firmware/issues/7855) which basically states not to use PA9 as an input pin because its for vbus sensing. GUESS WHO USED PA9 AS IN INPUT PIN!!?? THIS GUY!!!
+
+So... after swearing for 30 or so min, I found a [solution](https://github.com/qmk/qmk_firmware/blob/4195eb8fe1de39855b622ee282950c10fdbf0988/keyboards/xelus/valor_frl_tkl/rev2_0/readme.md), its a patch for the os. After making changes to the core, which I didn't want to do, everything works. YAY!
+
+Now to fix the artwork, so I can spin one more final board.
+
 
