@@ -1,8 +1,5 @@
 
 
-
-
-
 # Parts!
 
 ### Arrived
@@ -142,3 +139,7 @@ Now to fix the artwork, so I can spin one more final board.
 This log is being typed with Heliotrope!! I have it assembled and working! see photos 33 & 34. RGB is working with VIA, all keys are working, and everything is purple. The one thing I hate is the CherryMX RED's. I got them cheap in bulk, but I really miss the CherryMX Blue's....
 
 I still need to fix all the the little bugs in the logic board, and I'm waiting to see how my new case came out. hopefully its not a flop.
+
+# Log 015
+
+PCB artwork has been fixed, I ordered a batch of new parts, and the newest rev of the logic board (plus I fabed NightShade too). all PCB's come with matching stencil. I should be able to assemble once everything arrives. Now we play the waiting game.
