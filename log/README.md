@@ -1,5 +1,6 @@
 
 
+
 # Parts!
 
 ### Arrived
@@ -143,3 +144,6 @@ I still need to fix all the the little bugs in the logic board, and I'm waiting 
 # Log 015
 
 PCB artwork has been fixed, I ordered a batch of new parts, and the newest rev of the logic board (plus I fabed NightShade too). all PCB's come with matching stencil. I should be able to assemble once everything arrives. Now we play the waiting game.
+
+# Log 016
+I was think about vias today, roughly, the Logic board vias have a 4mil radius. That's about 25mils in circumference, those vias might get warm at anything over half an amp...... note to self, use more/bigger vias for power traces. Well... I might be fine, FR4 is rated for 130C..... *"cringes and commits to repo"* 
