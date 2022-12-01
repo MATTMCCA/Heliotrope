@@ -50,7 +50,7 @@ Once compiled and booted, I changed the keymap in via so I could control the bri
 
 Originally the KB was plugged into my hub, once running, windows said nope, can't run the device, not enough power.
 
-So I plugged the KB in to my Type A port directly. Current draw unknown, but the load switch tripped after the first few brightness steps. I'm going to assume, the trip level was either 500mA. This will have to be looked at on a latter date.
+So I plugged the KB in to my Type A port directly. Current draw unknown, but the load switch tripped after the first few brightness steps. I'm going to assume, the trip level was 500mA. This will have to be looked at on a latter date.
 
 ### Type C port to Type C port via PCIe
 
