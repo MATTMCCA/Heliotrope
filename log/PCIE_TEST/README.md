@@ -1,4 +1,5 @@
 
+
 # Now what we have here, is a failure, to communicate!
 Other tag lines include
 * USB-PD: The untold story of power [Narrated by Morgan Freeman]
@@ -15,6 +16,10 @@ I randomly picked up an [amazon PCIE card online](https://www.amazon.com/dp/B08T
 To quickly test this with hardware on hand I changed the following.
 
 This change grants me the ability to draw more than 500mA, the exact value is unknown. It equates to 0xFF somewhere deep deep deep in the code.
+
+#### Edit
+It looks like the Type C port Ignores bMaxpower and uses CC1 CC2 for power configuration. So setting  USB_MAX_POWER_CONSUMPTION to 500, should be fine.
+
 ```
 heliotrope\keymaps\via\config.h
 
