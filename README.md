@@ -9,5 +9,3 @@ MIT licensed keyboard.
 ![Alt text](/Case/test_fit.jpeg)
 
 ![Alt text](/Case/Front.png)
-
-Originally this was supposed to be a collaborative project, but.... that didn't work. I keep forgetting that people have "lives".
