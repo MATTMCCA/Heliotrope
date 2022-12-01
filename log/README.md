@@ -1,6 +1,3 @@
-
-
-
 # Parts!
 
 ### Arrived
@@ -147,3 +144,6 @@ PCB artwork has been fixed, I ordered a batch of new parts, and the newest rev o
 
 # Log 016
 I was think about vias today, roughly, the Logic board vias have a 4mil radius. That's about 25mils in circumference, those vias might get warm at anything over half an amp...... note to self, use more/bigger vias for power traces. Well... I might be fine, FR4 is rated for 130C..... *"cringes and commits to repo"* 
+
+# Log 017
+Added PCIE Card and hardware test to **PCIE_TEST** directory, see directory README.md for a more info.
