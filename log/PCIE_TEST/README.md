@@ -1,5 +1,3 @@
-
-
 # Now what we have here, is a failure, to communicate!
 Other tag lines include
 * USB-PD: The untold story of power [Narrated by Morgan Freeman]
@@ -15,8 +13,6 @@ I randomly picked up an [amazon PCIE card online](https://www.amazon.com/dp/B08T
 
 To quickly test this with hardware on hand I changed the following.
 
-This change grants me the ability to draw more than 500mA, the exact value is unknown. It equates to 0xFF somewhere deep deep deep in the code.
-
 #### Edit
 It looks like the Type C port Ignores bMaxpower and uses CC1 CC2 for power configuration. So setting  USB_MAX_POWER_CONSUMPTION to 500, should be fine.
 
@@ -24,7 +20,7 @@ It looks like the Type C port Ignores bMaxpower and uses CC1 CC2 for power confi
 heliotrope\keymaps\via\config.h
 
 #include "config_common.h"
-#define USB_MAX_POWER_CONSUMPTION 510
+#define USB_MAX_POWER_CONSUMPTION 500
 ```
 
 This change was to allow me to default the keyboard to a safe state.
@@ -47,7 +43,7 @@ heliotrope\info.json
 		"max_brightness": 255,
 ```
 
-Once compiled and booted, I changed the keymap in via so I could control the brightness level with 2 keys, bright up & bright down.
+Once compiled and running, I changed the keymap in via so I could control the brightness level with 2 keys, bright up & bright down.
 
 # LED Tests
 
@@ -66,3 +62,44 @@ Starting with an HSV val of (100,100,100), I drew around 1.0 Watt (according to 
 BUT! when I cranked the brightness up, something beautiful happened, it got bright! SOOO BRIGHT! total power draw was all the way up to 7.1 Watts before tripping the load switch. This tells me, (7.1/5) = 1.42A!. This is very close to the limit threshold of 1.407A. What I haven't determined, is, which limit mode I'm actually in (1.4A or 1.7A).
 
 # ...To Be Continued... 
+
+# The Real Numbers
+* The Logic board without Led's draws 58.4mA. [Measured]
+* USB-C MAX LED current before shutdown is 1.32A and iset resistors are connected to GND [Measured]
+* Operating in type A mode, strangely gives me a limit of 352mA [Measured].
+
+This confirms, that the circuit is operating as expected. What it doesn't tell me is why I'm going into an over current condition, before, the preset current limit is reached.
+
+#### Calculation of Iset tolerance levels 
+```
+1.705A @ +- 7% = 1.585A & 1.824A
+1.407A @ +- 7% = 1.308A & 1.505A
+0.489A @ +- 7% = 0.454 & 0.523A
+```
+Based on the above, I should be-able to sink more than 1.3A. 
+
+I'm going to remove the 102K to see what happens with the set limit. **The output was limited to 1.09A**
+
+So... Observation, Lower than set current levels in medium and high current mode by 400mA. Lower than set current level in low current mode by 200mA.
+
+Proposed solution: calculate new values based on observed under performance? 
+
+```
+1.7+.4    = 2.1A   = 15k = 43K || 28K || 130K
+1.4+.4    = 1.8A   = 17K = 43K || 28K
+0.489+0.2 = 0.689A = 43K = 43K
+```
+
+OH! Just found a contradiction in the {AP22652/AP22653/AP22652A/AP22653A} datasheet.
+
+It states ```±7% Accurate Adjustable Current Limit, 1.735A with RLIM  = 15kΩ```
+
+BUT! ```I  LIMIT_Typ[mA]  = 30321/R[kΩ]  ^1.055```
+
+The above shows, 2.1A @ 15K.... so.... what does that mean?!? Maybe that the curve of best fit is inaccurate? Maybe what I'm seeing is compounded tolerance from multiple components? and everything is operating correctly.
+
+At the very least, its interesting that the observed values are pretty far off from the calculated.
+
+
+
+
