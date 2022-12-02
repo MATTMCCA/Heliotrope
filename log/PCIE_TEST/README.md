@@ -100,6 +100,6 @@ The above shows, 2.1A @ 15K.... so.... what does that mean?!? Maybe that the cur
 
 At the very least, its interesting that the observed values are pretty far off from the calculated.
 
-
-
+# Thar She Blows!
+After thinking about it, since the MCU only draw <100mA. It may be wise to get a 200mA fuse vs the 500mA in the BOM.
 
