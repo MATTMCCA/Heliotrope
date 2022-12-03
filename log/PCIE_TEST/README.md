@@ -107,6 +107,8 @@ Actually, I'm just going to just by a [0603 resistor kit](https://www.amazon.com
 # Thar She Blows!
 After thinking about it, since the MCU only draw <100mA. It may be wise to get a 200mA fuse vs the 500mA in the BOM.
 
+ALT Fuse: 0603L010YR
+
 # Thermal Shutdown Calculation
 Not know what the actual temp of the LoadSwitch under full load was really bothering me, So I did the maths....
 
