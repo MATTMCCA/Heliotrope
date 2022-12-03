@@ -108,7 +108,7 @@ Actually, I'm just going to just by a [0603 resistor kit](https://www.amazon.com
 After thinking about it, since the MCU only draw <100mA. It may be wise to get a 200mA fuse vs the 500mA in the BOM.
 
 # Thermal Shutdown Calculation
-Not actually know what the actual temp of the LoadSwitch at full load, was really bothering me. So I did the maths....
+Not know what the actual temp of the LoadSwitch under full load was really bothering me, So I did the maths....
 
 Full load being 1.7A for this application (teetering on the hairy edge of the load carrying capacity of the traces)
 
