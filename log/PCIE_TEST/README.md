@@ -1,3 +1,4 @@
+
 # Now what we have here, is a failure, to communicate!
 Other tag lines include
 * USB-PD: The untold story of power [Narrated by Morgan Freeman]
@@ -106,3 +107,17 @@ Actually, I'm just going to just by a [0603 resistor kit](https://www.amazon.com
 # Thar She Blows!
 After thinking about it, since the MCU only draw <100mA. It may be wise to get a 200mA fuse vs the 500mA in the BOM.
 
+# Thermal Shutdown Calculation
+Not actually know what the actual temp of the LoadSwitch at full load, was really bothering me. So I did the maths....
+
+Full load being 1.7A for this application (teetering on the hairy edge of the load carrying capacity of the traces)
+
+Using AP22653W6-7, thetaJA = 120C/W, RDS_on = 135e-3.
+
+Pd = 135e-3x1.7^2 = 0.39
+
+Tj = 0.39 x 120 + 25 = 71.8C
+
+So.. the junction temp at max load is only 70C, It looks like the recommended junction temperature is 125C. Conceivably, I could run the constant current version of the load switch without worry of thermal shutdown. YAY! imma do that!
+
+Using the CC version of the IC is a better option, now knowing that it wont meltdown under full load. This avoids losing load power on a low current port, which is nice.
