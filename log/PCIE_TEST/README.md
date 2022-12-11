@@ -1,4 +1,5 @@
 
+
 # Now what we have here, is a failure, to communicate!
 Other tag lines include
 * USB-PD: The untold story of power [Narrated by Morgan Freeman]
@@ -123,3 +124,7 @@ Tj = 0.39 x 120 + 25 = 71.8C
 So.. the junction temp at max load is only 70C, It looks like the recommended junction temperature is 125C. Conceivably, I could run the constant current version of the load switch without worry of thermal shutdown. YAY! imma do that!
 
 Using the CC version of the IC is a better option, now knowing that it wont meltdown under full load. This avoids losing load power on a low current port, which is nice.
+
+# Final Resistor Values 
+
+Logic board: R1 = 56K, R2 = 27K, R6 = 120K, ILim = .48A, 1.4A, 1.6A

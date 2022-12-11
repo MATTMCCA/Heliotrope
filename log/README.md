@@ -1,3 +1,4 @@
+
 # Parts!
 
 ### Arrived
@@ -147,3 +148,6 @@ I was think about vias today, roughly, the Logic board vias have a 4mil radius. 
 
 # Log 017
 Added PCIE Card and hardware test to **PCIE_TEST** directory, see directory README.md for a more info.
+
+# Log 018
+As suspected during my PCIe test, the load switch gets hot!. It may be best to use the variant that shutdown on overload, for safety. I believe most of the heat generated is from the IC and not the vias, but this is unconfirmed.
