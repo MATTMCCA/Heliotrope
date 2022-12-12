@@ -1,4 +1,5 @@
 
+
 # Parts!
 
 ### Arrived
@@ -151,3 +152,7 @@ Added PCIE Card and hardware test to **PCIE_TEST** directory, see directory READ
 
 # Log 018
 As suspected during my PCIe test, the load switch gets hot!. It may be best to use the variant that shutdown on overload, for safety. I believe most of the heat generated is from the IC and not the vias, but this is unconfirmed.
+
+# Log 019
+JUST GOT PARTS! My Key plate came from oshcut today! (photo 36) its perfectly bent (as specified), and gloriously powder coated. I get to check the fit when my case arrives.
+
