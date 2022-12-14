@@ -1,5 +1,3 @@
-
-
 # Parts!
 
 ### Arrived
@@ -156,3 +154,12 @@ As suspected during my PCIe test, the load switch gets hot!. It may be best to u
 # Log 019
 JUST GOT PARTS! My Key plate came from oshcut today! (photo 36) its perfectly bent (as specified), and gloriously powder coated. I get to check the fit when my case arrives.
 
+# Log 020
+JUST GOT MORE PARTS!!! My 3d printed case from jawstec came today (with stickers! which are now, all over my car) I slapped everything together (blowing an led in the process) and every thing fits like a glove! I had the same case files milled out of ABS, I'm waiting to see how that turns out before I make everything permanent. See photos 37 - 42. I will say that jawstec did sand the case, as a result there is some discoloration, I may end up just painting it to give the case cleaner look. To their credit, the 3d print is amazing. I'm still blown away by *MultiJet Fusion* technology.
+
+#### Mini Rant
+At this point I would like to say, yes, I could of just went to microcenter and got a nice Keyboard for 60 bucks. BUT! not everyone can say, yeah, I totally designed that thing over there. 
+
+To be honest I like my fill size keyboard more, I don't know why 60% is a thing, its missing important keys that I use, like F1 - F4, Home, End, PrtSc, Esc, um the Num pad! lets not forget about up, down, left and right. 
+
+Because if you cant do whats right, you can always do whats left, unless your on a 60% keyboard.... then your just stuck trying to figure out what keys to map to what layer...... 
