@@ -1,3 +1,4 @@
+
 # Parts!
 
 ### Arrived
@@ -163,3 +164,16 @@ At this point I would like to say, yes, I could of just went to microcenter and 
 To be honest I like my fill size keyboard more, I don't know why 60% is a thing, its missing important keys that I use, like F1 - F4, Home, End, PrtSc, Esc, um the Num pad! lets not forget about up, down, left and right. 
 
 Because if you cant do whats right, you can always do whats left, unless your on a 60% keyboard.... then your just stuck trying to figure out what keys to map to what layer...... 
+
+# Log 021
+The final part has arrived! My ABS, CNC milled, black case (photos 43-48). I got this beauty machined at https://prototool.com/. They did an excellent job! Everything about the case is perfect!!! It mates nicely with my keyplate from https://www.oshcut.com/. All cad files are in this repo.
+
+The Keyboard is done, as far as I'm concerned.
+
+I chose the ABS over the MJF Nylon as my final case. The over all quality is just better, it also has a bit more flex, which I like.
+
+Obvious things like the load switch variant needs fixed, as well as my final resistor values. I also plan on cleaning up the repo and zipping this build log.
+
+Another note, I used paper washers over and under the PCB's, I also added 10 o-rings, 2 for each mounting post. It adds the right amount resistance, so one dose not over tighten the screws. 
+
+The PCB's were fab-ed at https://jlcpcb.com/, I soldered all the components myself to save a buck. All of the parts can be found at digikey, refer to the BOM.
