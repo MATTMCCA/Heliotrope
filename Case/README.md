@@ -2,16 +2,8 @@
 # Heliotrope
 Keyboard Case
 
+## Fab
+The Keyboard Case was milled out of ABS by ProtoTools. 
 
-Current 'working' design (subject to change)
+The KeyPlate was laser cut, formed and powered coated by OshCut.
 
-# Notes:
-
-* Fab one: https://www.wenext.com/
-* Fab two: https://jlcpcb.com/3d-printing
-* Fab three: https://www.ponoko.com/
-
-We shall see how everything turns out....
-
-
-![Alt text](/Case/case_view.png)
