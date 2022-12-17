@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB1.GBR   12/4/2022  11:40:21 AM
+Gerber File Extension Report For: PCB1.GBR   12/17/2022  3:32:12 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,4 +16,6 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
 .GM2                outline                                 
+.GKO                Keep-Out Layer                          
+.GM                 Profile                                 
 ------------------------------------------------------------------------------------------

@@ -2,6 +2,27 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
+Generating : outline
+      File : PCB1.GM2
+
+    Adding Layer      : outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Mask
       File : PCB1.GTS
 
@@ -62,6 +83,47 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : PCB1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : PCB1.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : PCB1.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D64
+    D65
+*************************************************************
+
+*************************************************************
 Generating : Top Copper
       File : PCB1.GTL
 
@@ -103,37 +165,6 @@ Used DCodes :
     D61
     D62
     D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Bottom Mask
-      File : PCB1.GBS
-
-    Adding Layer      : Bottom Mask
-
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Signal Layer 1
-      File : PCB1.G1
-
-    Adding Layer      : Signal Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
     D64
     D65
 *************************************************************
@@ -183,23 +214,11 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : outline
-      File : PCB1.GM2
-
-    Adding Layer      : outline
+Generating : Profile
+      File : PCB1.GM
 
 
 Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB1.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
+    D67
 *************************************************************
 

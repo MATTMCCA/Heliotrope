@@ -4,14 +4,14 @@ C:\Users\Public\Documents\Altium\Heliotrope_Logic_v2\Project Outputs for Heliotr
 ========================================================================================================================
 File Design Information:
 
-Date:       04/12/22
-Time:       11:40
-Revision:   c026e6f816b7233e4c883fa091b1345786b65c93
+Date:       17/12/22
+Time:       15:32
+Revision:   05aadcb4fcb321ad9a3f6db811ce948a4a630fe1
 Variant:    No variations
 Units used: mm
 
 Designator Comment              Layer    Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                                                                                        
-U4         AP22653W6-7          TopLayer SOT26-A1_DIO              39.8018      18.4912      180      "USB Power High Side Switch Single 3V to 5.5V 2.1A 6-Pin SOT-26 T/R"                               
+U4         AP22653AW6-7         TopLayer SOT26-A1_DIO              39.8018      18.4912      180      "PRECISION ADJUSTABLE CURRENT-LIMITED POWER SWITCHES, -40 to 85°C pF, RoHS"                        
 R7         RMCF0603JT10K0       TopLayer FP-RMCF0603-MFG           18.3134      2.7686       270      "Res Thick Film 0603 10K Ohm 5% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"                         
 F1         0603L010YR           TopLayer FP-0603L-MFG              11.1506      23.1140      90       "15VDC 100mA"                                                                                      
 R2         RMCF0603FT33K0       TopLayer FP-RMCF0603-MFG           36.2458      15.7226      0        "Res Thick Film 0603 33K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                      
